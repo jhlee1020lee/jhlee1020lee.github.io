@@ -1783,3 +1783,5 @@ a.project-visual {
     margin-top: 30px;
   }
 }
+
+.hero-intro .text-link + .text-link { margin-inline-start: 1rem; }
